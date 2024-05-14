@@ -25,9 +25,4 @@ if dong_nghia:
     print(f"Từ đồng nghĩa của '{tu_can_tra}' là '{dong_nghia}'")
 if trai_nghia:
     print(f"Từ trái nghĩa của '{tu_can_tra}' là '{trai_nghia}'")
-sdfsfishf
-afa
-fd
-af
-af
-af
+
